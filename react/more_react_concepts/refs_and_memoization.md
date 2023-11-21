@@ -238,7 +238,7 @@ Wrapping the component with a `memo` pretty much prevents the downward update th
 
 With all that said and done, test and break things in our interactive example:
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);border-radius:2px;" width="800" height="450" src="https://codesandbox.io/p/sandbox/github/TheOdinProject/react-examples/tree/main/memoization-lesson-example?embed=1" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);border-radius:2px;" width="800" height="450" src="https://codesandbox.io/p/sandbox/github/TheOdinProject/react-examples/tree/main/memoization-lesson-example?file=%2Fsrc%2FApp.jsx&embed=1" allowfullscreen></iframe>
 
 These are the scenarios that could happen:
 
